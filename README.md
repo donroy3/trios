@@ -1,4 +1,5 @@
 trios
 =====
 
-web framework
+This is a web framework. Built on MVC paradigm.
+
